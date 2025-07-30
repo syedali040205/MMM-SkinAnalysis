@@ -97,8 +97,9 @@ Original author(s) name: Saniya Afzali,Krishnahitha Jagannatham,Syed Mustafa Aya
 
 GitHub URL: https://github.com/syedali040205/MMM-SkinAnalysis
 
+violation of which will lead to strict legal action and license termination
 
-Violation of these terms may lead to license termination and legal action.
+
 ---
 
 ## 💡 Notes
