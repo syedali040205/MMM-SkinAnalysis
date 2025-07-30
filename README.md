@@ -4,7 +4,7 @@
 
 ---
 
-## 👥 Contributors
+## 👥 Authors
 - **Saniya Afzali** [profile](https://github.com/SaniyaAfzali)
 - **Krishnahitha Jagannatham** [profile](https://github.com/KrishnahithaJagannatham)
 - **Syed Mustafa Ayaan Ali**  
