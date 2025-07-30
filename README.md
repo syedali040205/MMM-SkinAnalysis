@@ -4,6 +4,13 @@
 
 ---
 
+## 👥 Contributors
+- **Saniya Afzali** [profile](https://github.com/SaniyaAfzali)
+- **Krishnahitha Jagannatham** [profile](https://github.com/KrishnahithaJagannatham)
+- **Syed Mustafa Ayaan Ali**  
+
+---
+
 ## 🧠 Features
 
 - 🔍 Analyzes visible skin regions using webcam input
@@ -76,15 +83,8 @@ A: Yes, the module performs basic visual analysis for features like texture, une
 **Q: Can I control when analysis happens?**  
 A: Yes! You can either use the `autoStart` config or hook it to external triggers like gestures, voice modules, or custom scripts.
 
----
-
-## 👥 Contributors
-- **Saniya Afzali** [profile](https://github.com/SaniyaAfzali)
-- **Krishnahitha Jagannatham** [profile](https://github.com/KrishnahithaJagannatham)
-- **Syed Mustafa Ayaan Ali**  
 
 ---
-
 ## 📄 License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
