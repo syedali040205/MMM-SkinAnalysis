@@ -1,0 +1,12 @@
+{
+    "name": "MMM-SkinAnalysis",
+    "version": "1.0.0",
+    "description": "Magic Mirror module for skin analysis using computer vision",
+    "main": "MMM-SkinAnalysis.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {}
+}
