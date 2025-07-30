@@ -89,9 +89,18 @@ A: Yes! You can either use the `autoStart` config or hook it to external trigger
 
 This project is licensed under the MIT License. See `LICENSE` for details.
 
+🚫 Redistribution, rebranding, or showcasing this project in hackathons or academic evaluations without proper attribution is strictly prohibited.
+
+You must provide visible credit in any derived project or demonstration, including:
+
+Original author(s) name: Saniya Afzali,Krishnahitha Jagannatham,Syed Mustafa Ayaan Ali
+
+GitHub URL: https://github.com/syedali040205/MMM-SkinAnalysis
+
+
+Violation of these terms may lead to license termination and legal action.
 ---
 
 ## 💡 Notes
 
 - Built for fun and experimental use.
-- Contributions welcome! Feel free to fork and improve.
