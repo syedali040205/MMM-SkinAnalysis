@@ -89,7 +89,7 @@ A: Yes! You can either use the `autoStart` config or hook it to external trigger
 
 This project is licensed under the MIT License. See `LICENSE` for details.
 
-🚫 Redistribution, rebranding, or showcasing this project in hackathons or academic evaluations without proper attribution is strictly prohibited.
+🚫 Redistribution, rebranding, or showcasing this project in hackathons or academic evaluations or in anywhere this module is used without proper attribution is strictly prohibited.
 
 You must provide visible credit in any derived project or demonstration, including:
 
