@@ -79,8 +79,8 @@ A: Yes! You can either use the `autoStart` config or hook it to external trigger
 ---
 
 ## 👥 Contributors
-- **Saniya Afzali** [@username](https://github.com/SaniyaAfzali)
-- **Krishnahitha Jagannatham** [@username](https://github.com/KrishnahithaJagannatham)
+- **Saniya Afzali** [profile](https://github.com/SaniyaAfzali)
+- **Krishnahitha Jagannatham** [profile](https://github.com/KrishnahithaJagannatham)
 - **Syed Mustafa Ayaan Ali**  
 
 ---
