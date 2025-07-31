@@ -105,3 +105,6 @@ violation of which will lead to strict legal action and license termination
 ## 💡 Notes
 
 - Built for fun and experimental use.
+---
+# Preview
+![Skin Analysis Preview](skinanalysis.jpg)
