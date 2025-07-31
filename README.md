@@ -29,7 +29,7 @@
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/MMM-SkinAnalysis.git
+   git clone https://github.com/syedali040205/MMM-SkinAnalysis.git
    ```
 
 3. (Optional) Install dependencies if required:
